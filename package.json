@@ -16,10 +16,10 @@
     "url": "https://github.com/Lunaero1/thelunarhelperv1/issues"
   },
   "homepage": "https://github.com/Lunaero1/thelunarhelperv1#readme",
-  "dependencies": {
-    "discord.js": "^14.12.1"
-  },
   "devDependencies": {
     "eslint": "^8.52.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0"
   }
 }
