@@ -1,0 +1,25 @@
+{
+  "name": "lunarhelper-v1",
+  "version": "1.0.0",
+  "description": "The official moderation and helper bot for The Lunar Resort!",
+  "main": "index.js",
+  "scripts": {
+    "test": "!test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lunaero1/thelunarhelperv1.git"
+  },
+  "author": "Lunaero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lunaero1/thelunarhelperv1/issues"
+  },
+  "homepage": "https://github.com/Lunaero1/thelunarhelperv1#readme",
+  "dependencies": {
+    "discord.js": "^14.12.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.52.0"
+  }
+}
